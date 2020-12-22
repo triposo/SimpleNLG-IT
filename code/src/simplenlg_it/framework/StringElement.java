@@ -185,14 +185,14 @@ public class StringElement extends NLGElement {
 		if (ruleSet == null) {
 			switch (language) {
 			case ENGLISH:
-				ruleSet = new simplenlg.morphophonology.english.MorphophonologyRules();
+				ruleSet = new simplenlg_it.morphophonology.english.MorphophonologyRules();
 				break;
 			case FRENCH:
-				ruleSet = new simplenlg.morphophonology.french.MorphophonologyRules();
+				ruleSet = new simplenlg_it.morphophonology.french.MorphophonologyRules();
 				break;
 			//CRI
 			case ITALIAN:
-				ruleSet = new simplenlg.morphophonology.italian.MorphophonologyRules();
+				ruleSet = new simplenlg_it.morphophonology.italian.MorphophonologyRules();
 				break;
 			}
 			morphophonologyRuleSets.put(language, ruleSet);

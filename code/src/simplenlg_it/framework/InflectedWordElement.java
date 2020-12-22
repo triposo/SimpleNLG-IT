@@ -142,14 +142,14 @@ public class InflectedWordElement extends NLGElement {
 		if (ruleSet == null) {
 			switch (language) {
 			case ENGLISH:
-				ruleSet = new simplenlg.morphology.english.NonStaticMorphologyRules();
+				ruleSet = new simplenlg_it.morphology.english.NonStaticMorphologyRules();
 				break;
 			case FRENCH:
-				ruleSet = new simplenlg.morphology.french.MorphologyRules();
+				ruleSet = new simplenlg_it.morphology.french.MorphologyRules();
 				break;
 			//CRI
 			case ITALIAN:
-				ruleSet = new simplenlg.morphology.italian.MorphologyRules();
+				ruleSet = new simplenlg_it.morphology.italian.MorphologyRules();
 				break;
 			}
 			morphologyRuleSets.put(language, ruleSet);

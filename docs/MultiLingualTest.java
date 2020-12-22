@@ -10,9 +10,9 @@ public class MultiLingualTest {
 
     public static void main(String[] args) {
 
-	Lexicon englishLexicon = new simplenlg.lexicon.english.XMLLexicon();
+	Lexicon englishLexicon = new simplenlg_it.lexicon.english.XMLLexicon();
 	NLGFactory englishFactory = new NLGFactory(englishLexicon);
-        Lexicon frenchLexicon = new simplenlg.lexicon.french.XMLLexicon();
+    Lexicon frenchLexicon = new simplenlg_it.lexicon.french.XMLLexicon();
 	NLGFactory frenchFactory = new NLGFactory(frenchLexicon);
 	Lexicon italianLexicon = new ITXMLLexicon();
 	NLGFactory italianFactory = new NLGFactory(italianLexicon);

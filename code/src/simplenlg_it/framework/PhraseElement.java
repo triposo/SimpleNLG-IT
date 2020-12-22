@@ -94,14 +94,14 @@ public class PhraseElement extends NLGElement {
 		if (clauseHelper == null) {
 			switch (language) {
 			case ENGLISH:
-				clauseHelper = new simplenlg.syntax.english.nonstatic.ClauseHelper();
+				clauseHelper = new simplenlg_it.syntax.english.nonstatic.ClauseHelper();
 				break;
 			case FRENCH:
-				clauseHelper = new simplenlg.syntax.french.ClauseHelper();
+				clauseHelper = new simplenlg_it.syntax.french.ClauseHelper();
 				break;
 			//CRI
 			case ITALIAN:
-				clauseHelper = new simplenlg.syntax.italian.ClauseHelper();
+				clauseHelper = new simplenlg_it.syntax.italian.ClauseHelper();
 				break;
 			}
 			clauseHelpers.put(language, clauseHelper);
@@ -138,16 +138,16 @@ public class PhraseElement extends NLGElement {
 			switch (language) {
 			case ENGLISH:
 				nounPhraseHelper =
-					new simplenlg.syntax.english.nonstatic.NounPhraseHelper();
+					new simplenlg_it.syntax.english.nonstatic.NounPhraseHelper();
 				break;
 			case FRENCH:
 				nounPhraseHelper =
-					new simplenlg.syntax.french.NounPhraseHelper();
+					new simplenlg_it.syntax.french.NounPhraseHelper();
 				break;
 			//CRI
 			case ITALIAN:
 				nounPhraseHelper=
-					new simplenlg.syntax.italian.NounPhraseHelper();
+					new simplenlg_it.syntax.italian.NounPhraseHelper();
 				break;
 			}
 			nounPhraseHelpers.put(language, nounPhraseHelper);
@@ -184,16 +184,16 @@ public class PhraseElement extends NLGElement {
 			switch (language) {
 			case ENGLISH:
 				phraseHelper =
-					new simplenlg.syntax.english.nonstatic.PhraseHelper();
+					new simplenlg_it.syntax.english.nonstatic.PhraseHelper();
 				break;
 			case FRENCH:
 				phraseHelper =
-					new simplenlg.syntax.french.PhraseHelper();
+					new simplenlg_it.syntax.french.PhraseHelper();
 				break;
 			//CRI
 			case ITALIAN:
 				phraseHelper = 
-					new simplenlg.syntax.italian.PhraseHelper();
+					new simplenlg_it.syntax.italian.PhraseHelper();
 				break;
 			}
 			phraseHelpers.put(language, phraseHelper);
@@ -230,16 +230,16 @@ public class PhraseElement extends NLGElement {
 			switch (language) {
 			case ENGLISH:
 				verbPhraseHelper =
-					new simplenlg.syntax.english.nonstatic.VerbPhraseHelper();
+					new simplenlg_it.syntax.english.nonstatic.VerbPhraseHelper();
 				break;
 			case FRENCH:
 				verbPhraseHelper =
-					new simplenlg.syntax.french.VerbPhraseHelper();
+					new simplenlg_it.syntax.french.VerbPhraseHelper();
 				break;
 			//CRI
 			case ITALIAN:
 				verbPhraseHelper =
-				new simplenlg.syntax.italian.VerbPhraseHelper();
+				new simplenlg_it.syntax.italian.VerbPhraseHelper();
 			break;
 			}
 			verbPhraseHelpers.put(language, verbPhraseHelper);

@@ -180,16 +180,16 @@ public class CoordinatedPhraseElement extends NLGElement {
 			switch (language) {
 			case ENGLISH:
 				coordinatedPhraseHelper =
-					new simplenlg.syntax.english.nonstatic.CoordinatedPhraseHelper();
+					new simplenlg_it.syntax.english.nonstatic.CoordinatedPhraseHelper();
 				break;
 			case FRENCH:
 				coordinatedPhraseHelper =
-					new simplenlg.syntax.french.CoordinatedPhraseHelper();
+					new simplenlg_it.syntax.french.CoordinatedPhraseHelper();
 				break;
 			//CRI
 			case ITALIAN:
 				coordinatedPhraseHelper =
-					new simplenlg.syntax.french.CoordinatedPhraseHelper();
+					new simplenlg_it.syntax.french.CoordinatedPhraseHelper();
 				break;
 			}
 			coordinatedPhraseHelpers.put(language, coordinatedPhraseHelper);

@@ -1066,14 +1066,14 @@ public abstract class NLGElement {
 		if (orthographyHelper == null) {
 			switch (language) {
 			case ENGLISH:
-				orthographyHelper = new simplenlg.orthography.english.OrthographyHelper();
+				orthographyHelper = new simplenlg_it.orthography.english.OrthographyHelper();
 				break;
 			case FRENCH:
-				orthographyHelper = new simplenlg.orthography.french.OrthographyHelper();
+				orthographyHelper = new simplenlg_it.orthography.french.OrthographyHelper();
 				break;
 			//CRI
 			case ITALIAN:
-				orthographyHelper = new simplenlg.orthography.italian.OrthographyHelper();
+				orthographyHelper = new simplenlg_it.orthography.italian.OrthographyHelper();
 				break;
 			}
 			orthographyHelpers.put(language, orthographyHelper);
