@@ -1,19 +1,19 @@
 package tutorial.italian;
 
 //GENERAL 
-import simplenlg.features.*;
-import simplenlg.framework.*;
-import simplenlg.phrasespec.*;
-import simplenlg.lexicon.Lexicon;
+import simplenlg_it.features.*;
+import simplenlg_it.framework.*;
+import simplenlg_it.phrasespec.*;
+import simplenlg_it.lexicon.Lexicon;
 
 //ITALIAN
 //importo feature italiane
-import simplenlg.features.italian.*;
+import simplenlg_it.features.italian.*;
 //importo lessico italiano
-import simplenlg.lexicon.italian.*;
+import simplenlg_it.lexicon.italian.*;
 //importo il realizer francese che richiama i metodi 
 //realiseSyntax e realiseMorphology degli elementi linguistici
-import simplenlg.realiser.Realiser;
+import simplenlg_it.realiser.Realiser;
 
 public class Example_VP_CONDITIONAL_FORM {
 	

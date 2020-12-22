@@ -2,13 +2,13 @@
 package tutorial.italian;
 
 
-import simplenlg.features.Gender;
-import simplenlg.features.LexicalFeature;
-import simplenlg.framework.NLGFactory;
-import simplenlg.lexicon.Lexicon;
-import simplenlg.lexicon.italian.ITXMLLexicon;
-import simplenlg.phrasespec.NPPhraseSpec;
-import simplenlg.realiser.Realiser;
+import simplenlg_it.features.Gender;
+import simplenlg_it.features.LexicalFeature;
+import simplenlg_it.framework.NLGFactory;
+import simplenlg_it.lexicon.Lexicon;
+import simplenlg_it.lexicon.italian.ITXMLLexicon;
+import simplenlg_it.phrasespec.NPPhraseSpec;
+import simplenlg_it.realiser.Realiser;
 
 public class Example_MorphonologyInAction {
 public static void main(String[] args) {

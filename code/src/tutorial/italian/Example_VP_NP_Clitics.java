@@ -3,24 +3,24 @@ package tutorial.italian;
 import java.util.List;
 
 import junit.framework.Assert;
-import simplenlg.features.DiscourseFunction;
-import simplenlg.features.Feature;
-import simplenlg.features.Form;
-import simplenlg.features.InternalFeature;
-import simplenlg.features.Tense;
-import simplenlg.features.italian.ItalianFeature;
-import simplenlg.features.italian.ItalianLexicalFeature;
-import simplenlg.framework.InflectedWordElement;
-import simplenlg.framework.NLGFactory;
-import simplenlg.framework.WordElement;
-import simplenlg.lexicon.Lexicon;
-import simplenlg.lexicon.italian.ITXMLLexicon;
-import simplenlg.phrasespec.AdjPhraseSpec;
-import simplenlg.phrasespec.NPPhraseSpec;
-import simplenlg.phrasespec.PPPhraseSpec;
-import simplenlg.phrasespec.SPhraseSpec;
-import simplenlg.phrasespec.VPPhraseSpec;
-import simplenlg.realiser.Realiser;
+import simplenlg_it.features.DiscourseFunction;
+import simplenlg_it.features.Feature;
+import simplenlg_it.features.Form;
+import simplenlg_it.features.InternalFeature;
+import simplenlg_it.features.Tense;
+import simplenlg_it.features.italian.ItalianFeature;
+import simplenlg_it.features.italian.ItalianLexicalFeature;
+import simplenlg_it.framework.InflectedWordElement;
+import simplenlg_it.framework.NLGFactory;
+import simplenlg_it.framework.WordElement;
+import simplenlg_it.lexicon.Lexicon;
+import simplenlg_it.lexicon.italian.ITXMLLexicon;
+import simplenlg_it.phrasespec.AdjPhraseSpec;
+import simplenlg_it.phrasespec.NPPhraseSpec;
+import simplenlg_it.phrasespec.PPPhraseSpec;
+import simplenlg_it.phrasespec.SPhraseSpec;
+import simplenlg_it.phrasespec.VPPhraseSpec;
+import simplenlg_it.realiser.Realiser;
 
 public class Example_VP_NP_Clitics {
 public static void main(String[] args) {

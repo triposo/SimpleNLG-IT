@@ -1,9 +1,9 @@
-import simplenlg.framework.*;
-import simplenlg.lexicon.*;
-import simplenlg.lexicon.italian.*;
-import simplenlg.realiser.*;
-import simplenlg.phrasespec.*;
-import simplenlg.features.*;
+import simplenlg_it.framework.*;
+import simplenlg_it.lexicon.*;
+import simplenlg_it.lexicon.italian.*;
+import simplenlg_it.realiser.*;
+import simplenlg_it.phrasespec.*;
+import simplenlg_it.features.*;
 
 
 public class MultiLingualTest {
