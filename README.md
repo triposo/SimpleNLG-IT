@@ -1,4 +1,16 @@
 # Simple-NLG-IT
+  
+  Why this forked version of SimpleNLG-IT 
+  -----------------------------
+  This fork of Simple-NLG-IT uses a slightly different package name
+  unique for the italian language. This is useful in case you want to
+  use the other SimpleNLG libraries created for the other languages 
+  and you don't want to suffer from package name collision.
+  
+  
+  SimpleNLG-IT 
+  -----------------------------
+  Original version of SimpleNLG-IT (https://github.com/alexmazzei/SimpleNLG-IT)
 
   SimpleNLG-IT is an Italian adaptation of SimpleNLG-EnFr 1.1, that is
   a bilingual English/French adaption of SimpleNLG v4.2. SimpleNLG-IT
@@ -20,8 +32,8 @@
 
   ++ A very simple multilingual start:
   1. cd DOCS
-  2. javac -cp .:./simplenlg-it.jar MultiLingualTest.java
-  3. java -cp .:./simplenlg-it.jar MultiLingualTest --> "Trilingual love ..."
+  2. javac -cp .:./simplenlg_it.jar MultiLingualTest.java
+  3. java -cp .:./simplenlg_it.jar MultiLingualTest --> "Trilingual love ..."
 
 + SimpleLEX-IT, that is the lexicon used in SimpleNLG-IT, has a
   specific github page: https://github.com/alexmazzei/SimpleLEX-IT
