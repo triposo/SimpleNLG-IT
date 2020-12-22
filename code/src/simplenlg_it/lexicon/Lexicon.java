@@ -134,7 +134,7 @@ public abstract class Lexicon {
 	 * @return default lexicon
 	 */
 	public static Lexicon getDefaultLexicon() {
-		return new simplenlg.lexicon.english.XMLLexicon();
+		return new simplenlg_it.lexicon.english.XMLLexicon();
 	}
 
 	/**
