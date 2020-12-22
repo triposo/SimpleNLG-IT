@@ -6,6 +6,7 @@
   unique for the italian language. This is useful for avoiding
   package name collision in case you want to use other SimpleNLG libraries
   built for other languages.
+  Classes are compiled with Java 11.
 
   
   
