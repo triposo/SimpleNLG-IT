@@ -130,15 +130,15 @@ public class XMLLexicon extends Lexicon {
 		String xmlLexiconFilePath;
 		switch (language) {
 		case FRENCH :
-			xmlLexiconFilePath = "/simplenlg/lexicon/french/default-french-lexicon.xml";
+			xmlLexiconFilePath = "/simplenlg_it/lexicon/french/default-french-lexicon.xml";
 			break;
 		//CRI
 		case ITALIAN:
 			///Users/cristina/Documents/workspace/SimpleNLG-EnFr-master/bin/simplenlg/lexicon/ita
-			xmlLexiconFilePath = "/simplenlg/lexicon/italian/default-italian-lexicon.xml";
+			xmlLexiconFilePath = "/simplenlg_it/lexicon/italian/default-italian-lexicon.xml";
 			break;
 		default :
-			xmlLexiconFilePath = "/simplenlg/lexicon/default-lexicon.xml";
+			xmlLexiconFilePath = "/simplenlg_it/lexicon/default-lexicon.xml";
 		}
 		
 		try {
