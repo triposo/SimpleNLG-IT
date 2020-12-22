@@ -3,9 +3,10 @@
   Why this forked version of SimpleNLG-IT 
   -----------------------------
   This fork of Simple-NLG-IT uses a slightly different package name
-  unique for the italian language. This is useful in case you want to
-  use the other SimpleNLG libraries created for the other languages 
-  and you don't want to suffer from package name collision.
+  unique for the italian language. This is useful for avoiding
+  package name collision in case you want to use other SimpleNLG libraries
+  built for other languages.
+
   
   
   SimpleNLG-IT 
