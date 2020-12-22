@@ -56,7 +56,7 @@ import simplenlg_it.phrasespec.VPPhraseSpec;
  * 
  * @author Cristina B. based on french version by vaudrypl
  */
-public class ClauseHelper extends simplenlg.syntax.english.nonstatic.ClauseHelper {
+public class ClauseHelper extends simplenlg_it.syntax.english.nonstatic.ClauseHelper {
 	/**
 	 * This method does nothing in the French clause syntax helper.
 	 * 

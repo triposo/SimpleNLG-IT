@@ -38,7 +38,7 @@ import simplenlg_it.features.LexicalFeature;
  * @author vaudrypl
  *
  */
-public class XMLLexicon extends simplenlg.lexicon.XMLLexicon {
+public class XMLLexicon extends simplenlg_it.lexicon.XMLLexicon {
 
 	/**********************************************************************/
 	// constructors

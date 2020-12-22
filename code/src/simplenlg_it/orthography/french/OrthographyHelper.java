@@ -41,7 +41,7 @@ import simplenlg_it.orthography.OrthographyHelperInterface;
  *  
  * @author vaudrypl
  */
-public class OrthographyHelper extends simplenlg.orthography.english.OrthographyHelper
+public class OrthographyHelper extends simplenlg_it.orthography.english.OrthographyHelper
 	implements OrthographyHelperInterface {
 
 	/**

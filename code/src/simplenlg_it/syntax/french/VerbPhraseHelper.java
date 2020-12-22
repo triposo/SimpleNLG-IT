@@ -63,7 +63,7 @@ import simplenlg_it.phrasespec.VPPhraseSpec;
  * 
  * @author vaudrypl
  */
-public class VerbPhraseHelper extends simplenlg.syntax.english.nonstatic.VerbPhraseHelper {
+public class VerbPhraseHelper extends simplenlg_it.syntax.english.nonstatic.VerbPhraseHelper {
 
 	/**
 	 * The main method for realising verb phrases.

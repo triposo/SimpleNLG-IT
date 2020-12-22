@@ -50,7 +50,7 @@ import simplenlg_it.features.italian.PronounType;
  * @author Cristina Battaglino
  *
  */
-public class ITXMLLexicon extends simplenlg.lexicon.XMLLexicon {
+public class ITXMLLexicon extends simplenlg_it.lexicon.XMLLexicon {
 
 	/**********************************************************************/
 	// constructors

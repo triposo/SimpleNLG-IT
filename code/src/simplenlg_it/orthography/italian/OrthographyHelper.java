@@ -42,7 +42,7 @@ import simplenlg_it.orthography.OrthographyHelperInterface;
  * @author vaudrupyl
 no changes for italian
  */
-public class OrthographyHelper extends simplenlg.orthography.english.OrthographyHelper
+public class OrthographyHelper extends simplenlg_it.orthography.english.OrthographyHelper
 	implements OrthographyHelperInterface {
 
 	/**

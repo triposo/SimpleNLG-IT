@@ -29,7 +29,7 @@ import simplenlg_it.framework.NLGElement;
  * @author vaudrypl
  */
 public class CoordinatedPhraseHelper
-	extends simplenlg.syntax.AbstractCoordinatedPhraseHelper {
+	extends simplenlg_it.syntax.AbstractCoordinatedPhraseHelper {
 
 	/**
 	 * Checks to see if the specifier can be raised and then raises it.

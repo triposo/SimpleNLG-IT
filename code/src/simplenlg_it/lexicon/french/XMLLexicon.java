@@ -50,7 +50,7 @@ import simplenlg_it.features.french.PronounType;
  * @author vaudrypl
  *
  */
-public class XMLLexicon extends simplenlg.lexicon.XMLLexicon {
+public class XMLLexicon extends simplenlg_it.lexicon.XMLLexicon {
 
 	/**********************************************************************/
 	// constructors

@@ -41,7 +41,7 @@ import simplenlg_it.morphology.MorphologyRulesInterface;
  * @author Cristina Battaglino
  *
  */
-public class MorphologyRules extends simplenlg.morphology.english.NonStaticMorphologyRules
+public class MorphologyRules extends simplenlg_it.morphology.english.NonStaticMorphologyRules
 		implements MorphologyRulesInterface {
 	
 	public static final String a_o_regex = "\\A(a|ä|à|â|o|ô).*";

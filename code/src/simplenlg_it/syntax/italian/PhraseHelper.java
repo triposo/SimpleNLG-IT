@@ -35,7 +35,7 @@ import simplenlg_it.framework.PhraseElement;
  * 
  * @author Cristina B. based on french version by vaudrypl
  */
-public class PhraseHelper extends simplenlg.syntax.GenericPhraseHelper
+public class PhraseHelper extends simplenlg_it.syntax.GenericPhraseHelper
 {
 
 	/**
