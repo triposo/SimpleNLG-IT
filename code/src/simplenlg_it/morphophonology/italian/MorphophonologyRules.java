@@ -374,7 +374,6 @@ public static final String vowels_regex =
 									leftWord.setRealisation("bel");
 								}
 								else if (leftRealisation.matches("grande")){
-									System.out.println("grande --> gran");
 									leftWord.setRealisation("gran");
 								}
 								else if (leftRealisation.matches("buono")){
