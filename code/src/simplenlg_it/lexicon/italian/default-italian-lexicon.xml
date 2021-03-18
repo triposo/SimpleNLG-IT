@@ -61562,13 +61562,6 @@ EXTRACTED LEXICON FROM MORPH_IT
    </word>
    <word>
       <category>adjective</category>
-      <base>romano</base>
-      <plural>romani</plural>
-      <feminine_singular>romana</feminine_singular>
-      <feminine_plural>romane</feminine_plural>
-   </word>
-   <word>
-      <category>adjective</category>
       <base>superbo</base>
       <plural>superbi</plural>
       <feminine_singular>superba</feminine_singular>
@@ -62185,7 +62178,7 @@ EXTRACTED LEXICON FROM MORPH_IT
    </word>
    <word>
       <category>adjective</category>
-      <base>sabbiso</base>
+      <base>sabbioso</base>
       <plural>sabbiosi</plural>
       <feminine_singular>sabbiosa</feminine_singular>
       <feminine_plural>sabbiosi</feminine_plural>
@@ -62840,6 +62833,104 @@ EXTRACTED LEXICON FROM MORPH_IT
       <plural>incavolati</plural>
       <feminine_singular>incavolata</feminine_singular>
       <feminine_plural>incavolate</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>modernista</base>
+      <plural>modernisti</plural>
+      <feminine_singular>modernista</feminine_singular>
+      <feminine_plural>moderniste</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>importato</base>
+      <plural>importati</plural>
+      <feminine_singular>importata</feminine_singular>
+      <feminine_plural>importate</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>condiscendente</base>
+      <plural>condscententi</plural>
+      <feminine_singular>condiscentente</feminine_singular>
+      <feminine_plural>conddiscendenti</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>inospitale</base>
+      <plural>inospitali</plural>
+      <feminine_singular>inospitale</feminine_singular>
+      <feminine_plural>inospitali</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>insapore</base>
+      <plural>insapori</plural>
+      <feminine_singular>insapore</feminine_singular>
+      <feminine_plural>insapori</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>romanico</base>
+      <plural>romanici</plural>
+      <feminine_singular>romanica</feminine_singular>
+      <feminine_plural>romaniche</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>ispiratore</base>
+      <plural>ispiratori</plural>
+      <feminine_singular>ispiratore</feminine_singular>
+      <feminine_plural>ispiratori</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>architetturale</base>
+      <plural>architetturali</plural>
+      <feminine_singular>architetturale</feminine_singular>
+      <feminine_plural>architteturali</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>inaccettabile</base>
+      <plural>inaccettabili</plural>
+      <feminine_singular>inaccettabile</feminine_singular>
+      <feminine_plural>inaccettabili</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>insipido</base>
+      <plural>insipidi</plural>
+      <feminine_singular>insipida</feminine_singular>
+      <feminine_plural>insipide</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>intangibile</base>
+      <plural>intangibili</plural>
+      <feminine_singular>intangibile</feminine_singular>
+      <feminine_plural>intangibili</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>pestifero</base>
+      <plural>pestiferi</plural>
+      <feminine_singular>pestifera</feminine_singular>
+      <feminine_plural>pestifere</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>saltato</base>
+      <plural>saltati</plural>
+      <feminine_singular>saltata</feminine_singular>
+      <feminine_plural>saltate</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>imbevibile</base>
+      <plural>imbevibili</plural>
+      <feminine_singular>imbevibile</feminine_singular>
+      <feminine_plural>imbevibile</feminine_plural>
    </word>
 
 </lexicon>
