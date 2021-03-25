@@ -62932,5 +62932,32 @@ EXTRACTED LEXICON FROM MORPH_IT
       <feminine_singular>imbevibile</feminine_singular>
       <feminine_plural>imbevibile</feminine_plural>
    </word>
-
+   <word>
+      <category>adjective</category>
+      <base>strepitoso</base>
+      <plural>strepitosi</plural>
+      <feminine_singular>strepitosa</feminine_singular>
+      <feminine_plural>strepitose</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>casereccio</base>
+      <plural>caserecci</plural>
+      <feminine_singular>casereccia</feminine_singular>
+      <feminine_plural>caserecce</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>assortito</base>
+      <plural>assortiti</plural>
+      <feminine_singular>assortita</feminine_singular>
+      <feminine_plural>assortite</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>mediorientale</base>
+      <plural>mediorientali</plural>
+      <feminine_singular>mediorientale</feminine_singular>
+      <feminine_plural>mediorientali</feminine_plural>
+   </word>
 </lexicon>
