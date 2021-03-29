@@ -62960,4 +62960,18 @@ EXTRACTED LEXICON FROM MORPH_IT
       <feminine_singular>mediorientale</feminine_singular>
       <feminine_plural>mediorientali</feminine_plural>
    </word>
+   <word>
+      <category>adjective</category>
+      <base>instancabile</base>
+      <plural>instancabili</plural>
+      <feminine_singular>instancabile</feminine_singular>
+      <feminine_plural>instancabili</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>stracciato</base>
+      <plural>stracciati</plural>
+      <feminine_singular>stracciata</feminine_singular>
+      <feminine_plural>stracciate</feminine_plural>
+   </word>
 </lexicon>
