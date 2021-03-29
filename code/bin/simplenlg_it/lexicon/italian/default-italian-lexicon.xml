@@ -62974,4 +62974,32 @@ EXTRACTED LEXICON FROM MORPH_IT
       <feminine_singular>stracciata</feminine_singular>
       <feminine_plural>stracciate</feminine_plural>
    </word>
+   <word>
+      <category>adjective</category>
+      <base>appetitoso</base>
+      <plural>appetitosi</plural>
+      <feminine_singular>appetitosa</feminine_singular>
+      <feminine_plural>appetitose</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>equo</base>
+      <plural>equi</plural>
+      <feminine_singular>equa</feminine_singular>
+      <feminine_plural>eque</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>cotto</base>
+      <plural>cotti</plural>
+      <feminine_singular>cotta</feminine_singular>
+      <feminine_plural>cotte</feminine_plural>
+   </word>
+   <word>
+      <category>adjective</category>
+      <base>condizionato</base>
+      <plural>condizionati</plural>
+      <feminine_singular>condizionata</feminine_singular>
+      <feminine_plural>condizionate</feminine_plural>
+   </word>
 </lexicon>
